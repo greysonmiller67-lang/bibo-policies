@@ -174,4 +174,5 @@ privacy, please email:
 **[greysonmiller67@gmail.com]**
 
 Developer: Sana Khan
-App: Bibo
+
+App: Bibo Gentle speech therapy
